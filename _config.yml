@@ -2,8 +2,8 @@ public:
 type: "docs"
 category:
 tags:
-
-title:
-description:
+- "policy"
+title: "Content Strategy for the RAC’s Research & Engagement Program"
+description:"An outline of Research & Engagement's content strategy"
 pages:
-  - ["Documentation Title", "index"]
+  - ["Content Strategy for the RAC’s Research & Engagement Program", "index"]
