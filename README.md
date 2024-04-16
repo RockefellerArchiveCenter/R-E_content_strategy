@@ -1,5 +1,5 @@
-# Docs template
-A template for docs.rockarch.org documentation repositories. Include a short description of the documentation.
+# Content Strategy for the RAC’s Research & Engagement Program
+An outline of Research & Engagement's content strategy
 
 ## Accessing the documentation
 This content is accessible on [docs.rockarch.org](https://docs.rockarch.org), the central platform for the documentation of the Rockefeller Archive Center.
