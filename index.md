@@ -1,6 +1,6 @@
 ---
 layout: docs
-title:  " Content Strategy for the RAC’s Research & Engagement Program"
+title:  " Content Strategy for the Research and Engagement Program"
 ---
 
 To be reviewed annually.
