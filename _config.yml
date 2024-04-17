@@ -1,6 +1,6 @@
-public:
+public: true
 type: "docs"
-category:
+category: "reference and outreach"
 tags:
 - "policy"
 title: "Content Strategy for the RAC’s Research & Engagement Program"
