@@ -1,27 +1,27 @@
 ---
 layout: docs
-title:  " Content Strategy for the Research and Engagement Program"
+title:  "Content Strategy for the Research and Engagement Program"
 ---
 
 To be reviewed annually.
 Last approved 11/23.
 
-# Research & Engagement Program Vision
+## Research & Engagement Program Vision
 Consistent with the Mission, Vision, and Values of the Rockefeller Archive Center, the Research & Engagement Program envisions a broad and diverse community engaged in archival practice, primary source research, and historical understanding.
 
-# Values of R&E
+## Values of R&E
 - Center equity, diversity, and accessibility
 - Communicate with transparency and foster trust
 - Build from user needs
 - Empower each other and collaborate across programs
 - Create from a foundation of research
 
-# R&E Program Goals
+## R&E Program Goals
 - Invite global engagement with RAC collections and the body of research using them
 - Empower educators to help learners of all levels to develop their media literacy, research, and critical thinking skills
 - Engage in conversations with communities represented in and impacted by our work
 
-# Guiding Principles of R&E's Work
+## Guiding Principles of R&E's Work
 * Public and Accessible
   * We build, use, and share open-source tools, records, systems, and content wherever possible.
   * We ensure our products are compatible with common software applications and digital tools.
@@ -43,7 +43,7 @@ Consistent with the Mission, Vision, and Values of the Rockefeller Archive Cente
   * We do not partner with individuals or institutions whose primary goals are commercial.
   * We do not promote the strategies or missions of our donor/depositing organizations.
 
-# Communities We Serve
+## Communities We Serve
 * Educators and the learners they serve 
 * Not-for-Profit Practitioners 
 * Professionals in Archives, Archives-Adjacent, and Historical Fields
@@ -56,7 +56,7 @@ Consistent with the Mission, Vision, and Values of the Rockefeller Archive Cente
 | Professionals in Archives, Archives-Adjacent, and Historical Fields | Staff and leadership at archival institutions, historical societies, and other public history contexts | Community - Examples of work we have done that relates to theirs - Learning opportunities | Professional Conferences - [Archival Educators Roundtable](https://resource.rockarch.org/teach-with-archives/archival-educators/) - [Social Media Content](https://linktr.ee/rockefellerarchivecenter) - [Blog Posts](https://blog.rockarch.org) - [Online Articles](https://resource.rockarch.org) |
 | Researchers | Researchers who have used or might use RAC collections. They often hold academic posts or are in graduate school, and write for fellow academics. | Information about what the RAC holds, what others have written, how to access collections - May seek to participate in the conversation about their fields of research | [How-to Videos](https://www.youtube.com/@RockefellerArchive) - [Research Reports](https://rockarch.issuelab.org/?publisher=&wikitopic_categories=&keywords=&pubdate_start_year=1&pubdate_end_year=1&sort=&categories=&offset=0&pageSize=12) - [Bibliography of Scholarship](https://www.zotero.org/groups/222650/rac/library) - [New Research Summaries](https://resource.rockarch.org/topic/new-research/) - [Email Messages](mailto:archive@rockarch.org) - Conferences - [Research Stipend Program](https://rockarch.org/collections/research-stipends/) |
 
-# Tone
+## Tone
 Our content should be:
 * Helpful
 * Informative
@@ -67,13 +67,13 @@ Our content should be:
 * Humble
 
 
-# Editorial Process
+## Editorial Process
 We are a small team of individuals who wear many hats. There are key roles we play to carry out RAC and R&E goals through our content creation – most of us hold more than one role and some of these roles extend beyond the R&E team. This makes cross-programmatic teamwork and clear documentation essential to the success of our program.
 
 Our aim is to insitute an editoral process that applies to all content produced across all platforms, regardless of publication venue, audience, or production tools.
 
 
-# Roles and Responsibilities
+## Roles and Responsibilities
 
 Chief Content Officer
 * Oversees the content process, including budgeting and strategy
@@ -121,7 +121,7 @@ Technical Supports
 * Technology problem-solving
 * Integration with RAC systems and practices
 
-# Editorial Calendar
+## Editorial Calendar
 
 The editorial calendar is developed with SMARTIE goals in mind. (Strategic Measurable Appropriate Realistic Time-bound Inclusive Equitable.) The team will draft a quarterly content plan for approval by the Director of R&E. Individual pieces of content are developed and managed through Asana. 
 
@@ -132,10 +132,10 @@ The quarterly content plans will include:
 * Deadlines for each project and task
 
 
-# Tools
+## Tools
 Content production will be managed in Asana but as a general rule, will be produced and published in-platform. This practice may need to be revised and platforms and tools change.
 
-# Measurement
+## Measurement
 We are a learning team; we strive to be responsive to meet the needs of our communities through our content. Measurement plays a crucial role in our editorial planning and annual strategy discussions. We draw on the following metrics:
 * Web analytics
 * Social media engagement metrics
@@ -143,7 +143,7 @@ We are a learning team; we strive to be responsive to meet the needs of our comm
 * User testing
 * User feedback
 
-# Commenting Policy
+## Commenting Policy
 * Comments that include hate speech will be removed and the offending accounts blocked.
 * We comment to answer questions or express support for ideas that align with our values and goals.
 * We “like” posts that relate to our work or the subjects of our holdings. Likes do not mean endorsement.
