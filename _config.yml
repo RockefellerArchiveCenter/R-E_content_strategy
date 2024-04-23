@@ -1,9 +1,9 @@
-public:
+public: true
 type: "docs"
-category:
+category: "reference and outreach"
 tags:
-
-title:
-description:
+- "policy"
+title: "Content Strategy for the Research and Engagement Program"
+description: "An outline of the content strategy for Research and Engagement"
 pages:
-  - ["Documentation Title", "index"]
+  - ["Content Strategy for the Research and Engagement Program", "index"]
